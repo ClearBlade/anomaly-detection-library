@@ -1,0 +1,31 @@
+{
+    "author": {
+        "email": "rreinold@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Library for identification of items, events or observations which do not conform to an expected pattern or other items in a dataset",
+    "domains": [
+        "predictive maintenance"
+    ],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "anomaly",
+        "aberration",
+        "AI",
+        "detection",
+        "normal",
+        "nominal",
+        "norm"
+    ],
+    "license": "MIT",
+    "name": "anomaly-detection-library",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}
